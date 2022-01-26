@@ -12,6 +12,6 @@ theme = "hugo-theme-shell"
     files = [
         ["C/C++", "https://www.example.com/"],
         ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["Services", "/works/go.md"],
+        ["Projects", "/works/hugo.md"]
     ]
